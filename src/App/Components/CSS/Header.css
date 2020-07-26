@@ -1,0 +1,18 @@
+header {
+  padding-top: 10px;
+  text-align: end;
+}
+
+.header-quadrado {
+  width: 18px;
+  height: 18px;
+}
+
+.header-circulo {
+  vertical-align: middle;
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  border-radius: 360px;
+  background-color: black;
+}
